@@ -1,0 +1,39 @@
+html, body {
+  margin: auto;
+  padding: 0;
+  text-align: center;
+  background: #9fcfff;
+  color: #733e80;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  background: #733e80;
+  color: white;
+  padding: 1em;
+  margin: auto;
+}
+main {
+  max-width: 600px;
+  margin: auto;
+}
+p {
+  margin:10px;
+  padding: 20px;
+  background-color: rgba(115, 62, 128, 0.5);
+  color: white;
+  border-radius: 10px;
+  border: 4px dashed rgba(255, 255, 255, 0.5);
+}
+footer {
+  padding: 5px;
+  margin: auto;
+  width: auto;
+  max-width: 33%;
+  background: rgba(255,255,255,0.75);
+  border-radius: 1000px;
+  font-weight: bold;
+}
+img {
+    max-width: 100%;
+}
